@@ -1,0 +1,4 @@
+1) Functions names
+2) comments
+3) info about developer
+4) files names
